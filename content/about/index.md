@@ -2,6 +2,8 @@
 title: About
 author: Christopher Guindon
 date: '2017-09-26T14:02:37+02:00'
+draft: false
+hidden: false
 ---
 I have over 15 years of professional experience in web development and I experienced all stages of the development cycle for web projects. I am a passionate employee with strong analytical, troubleshooting and problem solving skills.
 
