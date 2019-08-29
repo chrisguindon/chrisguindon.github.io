@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Christopher
 author: Christopher Guindon
 date: '2017-09-26T14:02:37+02:00'
 draft: false
