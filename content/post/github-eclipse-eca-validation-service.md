@@ -11,7 +11,7 @@ tags:
   - jakartaee
 ---
 
-In an effort to [provide a more robust solution](https://bugs.eclipse.org/bugs/show_bug.cgi?id=540694) to our Contributor Validation Service on GitHub, we created the [Eclipse ECA Validation](https://github.com/apps/eclipse-eca-validation) Github App that can be installed on any GitHub account, organization or repository.
+In an effort to [provide a more robust solution](https://bugs.eclipse.org/bugs/show_bug.cgi?id=540694) to our Contributor Validation Service on GitHub, we created the [Eclipse ECA Validation](https://github.com/apps/eclipse-eca-validation) Github App that can be installed on any GitHub account, organization or repository...
 
 The goal of this new GitHub App is to make sure that every contributor is covered by the necessary legal agreements in order to contribute to all Eclipse Foundation Projects including [specification projects](https://www.eclipse.org/projects/efsp/#efsp-projects).
 
