@@ -23,9 +23,9 @@ If you plan on submitting a pull request, you will need to make the following ch
 
 Your participation in this initiative will publicly show your support for open source innovation.
 
-### List IoT adopters on an Eclipse project website
+### List Eclipse IoT adopters on an Eclipse project website
 
-Eclipse projects can showcase the logos of their adopters on their project websites. We built a JavaScript plugin to make this process easier. If you are a project committer, here are quick instructions on how to use the [eclipsefdn-adopters.js](https://iot.eclipse.org/assets/js/eclipsefdn.adopters.js) on your Eclipse projet website:
+Eclipse projects can showcase the logos of their adopters on their project websites. We built a JavaScript plugin to make this process easier. If you are a project committer, here are quick instructions on how to use the [eclipsefdn-adopters.js](https://iot.eclipse.org/assets/js/eclipsefdn.adopters.js) on your Eclipse project website:
 
 #### Usage
 
