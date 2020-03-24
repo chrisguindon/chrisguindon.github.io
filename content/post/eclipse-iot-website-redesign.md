@@ -24,16 +24,16 @@ Yes, you got that right, the end result is -77116 lines of code since we took th
 When we started this project, we set out some [goals](https://github.com/EclipseFdn/iot.eclipse.org/issues/179) for the new redesign:
 
 1. **Improve our information architecture:** \
-   With the help of [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
+With the help of [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
 
 2. **Contribute to the recruitment of new members and adopters** \
-   Adopters and members are now top level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
+Adopters and members are now top level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
 
 3. **Ensure the website cathers to both technical and non-technical visitors** \
-   We made some improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Video, Whitepapers and many more resources to keep you informed about Eclipse IoT.
+We made some improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Video, Whitepapers and many more resources to keep you informed about Eclipse IoT.
 
 4. **Drive adoption for our technologies** \
-   Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
+Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
 
 We do our best to work in an open and transparent way. We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us achieve our launch deadline of March 24, 2020.
 
