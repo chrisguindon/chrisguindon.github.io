@@ -33,7 +33,7 @@ When we started this project, we set out some [goals](https://github.com/Eclipse
    We made some improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Video, Whitepapers and many more resources to keep you informed about Eclipse IoT.
 
 4. **Drive adoption for our technologies** \
-   Our old static project data file was replaced by a new script that retrieves up-to-date project data from the \[Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
+   Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
 
 We do our best to work in an open and transparent way. We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us achieve our launch deadline of March 24, 2020.
 
