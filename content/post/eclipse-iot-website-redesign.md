@@ -3,7 +3,7 @@ title: Eclipse IoT Website Redesign
 linktitle: Eclipse IoT Website Redesign
 author: Christopher Guindon
 date: 2020-03-24T14:12:32.535Z
-draft: true
+draft: false
 categories:
   - webdesign
 tags:
