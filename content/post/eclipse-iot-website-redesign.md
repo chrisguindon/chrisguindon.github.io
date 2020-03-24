@@ -32,7 +32,7 @@ We made some improvements to our [community](https://iot.eclipse.org/community/)
 4. **Drive adoption for our technologies**: \
 Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
 
- We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us achieve our launch deadline of March 24, 2020.
+ We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us meet our March 24, 2020 deadline.
 
 We do our best to work in an open and transparent way to keep our communities up-to-date with our efforts and we think it's a great way for us to collaborate and share tasks. As the project manager, this workflows allows me to make to make sure that the project is moving forward as planned.
 
