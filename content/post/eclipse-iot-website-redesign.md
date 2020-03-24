@@ -28,7 +28,7 @@ Led by [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the 
 2. **Contribute to the recruitment of new members and adopters**: \
 [Adopters](https://iot.eclipse.org/adopters/) and [Members](https://iot.eclipse.org/membership/) are now top-level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
 3. **Ensure the website cathers to both technical and non-technical visitors**: \
-We made some big improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Videos, White Papers and some additional information on how you can stay informed about what's currently going on with Eclipse IoT.
+We made some big improvements to our [Community](https://iot.eclipse.org/community/) and [Resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Videos, White Papers and some additional information on how you can stay informed about what's currently going on with Eclipse IoT.
 4. **Drive adoption for our technologies**: \
 We now fetch project information from the [Eclipse PMI](https://projects.eclipse.org) each time we push a change to the website. Our stale project page is now a thing of the past!
 
