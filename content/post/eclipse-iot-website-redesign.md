@@ -21,7 +21,7 @@ The [Eclipse IoT](https://iot.eclipse.org) website redesign is now live! This pr
 
 Yes, you got that right, the end result is **-77,116 lines of code** because we took the opportunity to clean up our codebase. 
 
-When we started this project, we made sure to define our [goals](https://github.com/EclipseFdn/iot.eclipse.org/issues/179) for the new redesign:
+To kickoff this initiave, the community help us define the [goals](https://github.com/EclipseFdn/iot.eclipse.org/issues/179) for this redesign:
 
 1. **Improve our information architecture**: \
 With the help of [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
@@ -32,7 +32,7 @@ We made some improvements to our [community](https://iot.eclipse.org/community/)
 4. **Drive adoption for our technologies**: \
 Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
 
- We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us meet our March 24, 2020 deadline.
+.. and then we created a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us meet our March 24, 2020 deadline.
 
 We do our best to work in an open and transparent way to keep our communities up-to-date with our efforts and we think it's a great way for us to collaborate and share tasks. As the project manager, this workflows allows me to make to make sure that the project is moving forward as planned.
 
