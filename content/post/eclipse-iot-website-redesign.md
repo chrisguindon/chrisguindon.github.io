@@ -32,9 +32,9 @@ We made some improvements to our [community](https://iot.eclipse.org/community/)
 4. **Drive adoption for our technologies**: \
 Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
 
-We do our best to work in an open and transparent way. We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us achieve our launch deadline of March 24, 2020.
+ We started this project by creating a [Github Project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones) to help us achieve our launch deadline of March 24, 2020.
 
-We do this to keep our communities up-to-date with our efforts and it’s a great way for us to collaborate and share tasks. As the project manager, this was a great way to make sure that the project was moving forward as planned.
+We do our best to work in an open and transparent way to keep our communities up-to-date with our efforts and I think it's a great way for us to collaborate and share tasks. As the project manager, this workflows allows me to make to make sure that the project is moving forward as planned.
 
 We also created a set of  [brand guidelines](https://www.eclipse.org/artwork/zip_file_v2/Eclipse-IoT-Brand-Guidelines.pdf)  for the Eclipse IoT Working Group. These guidelines include the brand font (Roboto), logo variations, color swatches, and acceptable logo treatments. This will help us consistently deploy the brand across different digital and print channels as well as Eclipse IoT events. 
 
