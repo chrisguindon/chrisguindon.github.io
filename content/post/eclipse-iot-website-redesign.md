@@ -24,7 +24,7 @@ Yes, you got that right, the end result was **-77,116 lines of code** because we
 To kickoff this initiative, the community help us define the [goals](https://github.com/EclipseFdn/iot.eclipse.org/issues/179) for this project:
 
 1. **Improve our information architecture**: \
-With the help of [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
+Led by [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the Eclipse IoT community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
 2. **Contribute to the recruitment of new members and adopters**: \
 Adopters and members are now top level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
 3. **Ensure the website cathers to both technical and non-technical visitors**: \
