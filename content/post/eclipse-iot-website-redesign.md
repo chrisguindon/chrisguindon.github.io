@@ -19,7 +19,7 @@ We are launching the redesign of the [Eclipse IoT](https://iot.eclipse.org) webs
 
 ![Eclipse IoT Homepage](/uploads/iot-2020.png)
 
-Yes, you got that right, the end result is -77116 lines of code because we took the opportunity to clean up some of the source code. 
+Yes, you got that right, the end result is **-77116 lines of code** because we took the opportunity to clean up our codebase. 
 
 When we started this project, we set out some [goals](https://github.com/EclipseFdn/iot.eclipse.org/issues/179) for the new redesign:
 
