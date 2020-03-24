@@ -26,11 +26,11 @@ To kickoff this initiative, the community help us define the [goals](https://git
 1. **Improve our information architecture**: \
 Led by [Frédéric Desbiens](https://accounts.eclipse.org/users/fdesbiens), the Eclipse IoT community created a new [structure](https://github.com/EclipseFdn/iot.eclipse.org/files/3591212/iot.eclipse.org.new.structure.v2.pdf) for the website.
 2. **Contribute to the recruitment of new members and adopters**: \
-Adopters and members are now top level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
+[Adopters](https://iot.eclipse.org/adopters/) and [Members](https://iot.eclipse.org/membership/) are now top-level menu items. We also created a new “[How to be Listed as an Adopter](https://iot.eclipse.org/adopters/how-to-be-listed-as-an-adopter/)” page.
 3. **Ensure the website cathers to both technical and non-technical visitors**: \
-We made some improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Video, Whitepapers and many more resources to keep you informed about Eclipse IoT.
+We made some big improvements to our [community](https://iot.eclipse.org/community/) and [resources](https://iot.eclipse.org/community/resources/) sections. These sections cathers to both technical and non-technical users since you can find Case-Studies, Market Reports, Videos, White Papers and some additional information on how you can stay informed about what's currently going on with Eclipse IoT.
 4. **Drive adoption for our technologies**: \
-Our old static project data file was replaced by a new script that retrieves up-to-date project data from the [Eclipse PMI](https://projects.eclipse.org). Going forward, each time we publish a change to the website, the information on our [Projects](https://iot.eclipse.org/projects) page will be updated.
+We now fetch project information from the [Eclipse PMI](https://projects.eclipse.org) each time we push a change to the website. Our stale project page is now a thing of the past!
 
 In an effort to communicate our project plans with our community, we created a public [GitHub project](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) with [two milestones](https://github.com/EclipseFdn/iot.eclipse.org/milestones).
 
