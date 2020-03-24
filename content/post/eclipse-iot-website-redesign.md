@@ -15,7 +15,7 @@ keywords:
   - IoT information architecture
   - website design
 ---
-The [Eclipse IoT](https://iot.eclipse.org) website redesign is now live! This project was a [huge undertaking](https://github.com/EclipseFdn/iot.eclipse.org/pull/339) for us; we added 5,245 lines of code, removed 82,361 lines of code, closed [15 github issues](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) and made [84 commits](https://github.com/EclipseFdn/iot.eclipse.org/pull/339). 
+The [Eclipse IoT](https://iot.eclipse.org) website redesign is now live! This project was a [huge undertaking](https://github.com/EclipseFdn/iot.eclipse.org/pull/339) for us; we added 5,245 lines of code, removed 82,361 lines of code, closed [15 issues](https://github.com/EclipseFdn/iot.eclipse.org/projects/3) and made [84 commits](https://github.com/EclipseFdn/iot.eclipse.org/pull/339). 
 
 ![Eclipse IoT Homepage](/uploads/iot-2020.png)
 
