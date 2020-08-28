@@ -3,7 +3,6 @@ title: Website Updates For Eclipse Foundation AISBL
 author: Christopher Guindon
 date: '2020-08-28T11:00:00-04:00'
 draft: false
-description: The Eclipse Foundation recently announced its intention to transition to Europe as part of its continued global expansion. To support this initiative, we needed to start making some important changes to our website. This week, we made available the first round of these changes!
 categories:
   - technology
 tags:
