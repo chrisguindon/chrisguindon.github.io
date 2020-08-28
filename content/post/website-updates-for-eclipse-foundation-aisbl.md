@@ -17,7 +17,7 @@ To support this initiative, we needed to start making some important changes to 
 
 First off, it was essential to rethink how we convey membership information on our website. Our main goal was to organize information effectively and highlight important links such as [how to contact us](https://accounts.eclipse.org/contact/membership). 
 
-We decided to use tabs to make it easier for users to find our [membership fees](https://www.eclipse.org/membership/#tab-fees), our [membership levels](https://www.eclipse.org/membership/#tab-levels), steps for [becoming a member](https://www.eclipse.org/membership/#tab-membership), and our key [services](https://www.eclipse.org/membership/#tab-benefits). 
+We decided to use tabs to make it easier for users to find our [membership fees](https://www.eclipse.org/membership/#tab-fees), our [membership levels](https://www.eclipse.org/membership/#tab-levels), how to [become a member](https://www.eclipse.org/membership/#tab-membership), and our key [services](https://www.eclipse.org/membership/#tab-benefits). 
 
 Folks are no longuer required to naviate between multiple pages to find the information they need.
 
@@ -43,9 +43,9 @@ Our focus is now on the required content changes for Eclipse Foundation AISBL.
 
 We created [Bug 566455 - Website Updates For Eclipse Foundation AISBL](https://bugs.eclipse.org/bugs/show_bug.cgi?id=566455) to discuss these remaining changes.
 
-One of those changes is to [update the currency](https://bugs.eclipse.org/bugs/show_bug.cgi?id=566456) of our membership fees. Our fees will no longer be stated in USD but in Euros. 
+One of those changes is to publish the Eclipse Foundation AISBL Membership Agreement. This is a new agreement that members will be asked to sign as of October. To simplify the signing process, we will allow our members to sign the Membership Agreement with an eSignature.
 
-We also need to publish the Eclipse Foundation AISBL Membership Agreement. This is a new agreement that members will be asked to sign as of October. To simplify the signing process, we will allow our members to sign the Membership Agreement with an eSignature.
+We also need to [update the currency](https://bugs.eclipse.org/bugs/show_bug.cgi?id=566456) of our membership fees. Our fees will no longer be stated in USD but in Euros. 
 
 The list of remaining changes is available via the [dependency tree](https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=566455) of this project.
 
