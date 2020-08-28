@@ -39,7 +39,7 @@ Finally, we simplified our [Members](https://www.eclipse.org/membership/exploreM
 
 ## The Work Ahead
 
-Our focus is now on the required content changes for Eclipse Foundation AISBL.
+Our focus is now on the required content updates for Eclipse Foundation AISBL.
 
 We created [Bug 566455 - Website Updates For Eclipse Foundation AISBL](https://bugs.eclipse.org/bugs/show_bug.cgi?id=566455) to discuss these remaining changes.
 
