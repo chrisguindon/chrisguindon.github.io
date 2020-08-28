@@ -19,7 +19,7 @@ First off, it was essential to rethink how we convey membership information on o
 
 We decided to use tabs to make it easier for users to find our [membership fees](https://www.eclipse.org/membership/#tab-fees), our [membership levels](https://www.eclipse.org/membership/#tab-levels), how to [become a member](https://www.eclipse.org/membership/#tab-membership), and our key [services](https://www.eclipse.org/membership/#tab-benefits). 
 
-Folks are no longuer required to naviate between multiple pages to find the information they need.
+Folks are no longuer required to navigate between multiple pages to find the information they need.
 
 [![Screenshot of the Eclipse Membership landing page](/uploads/eclipse-membership-landing-page.jpg "Screenshot of the Eclipse Membership landing page")](https://www.eclipse.org/membership/)
 
