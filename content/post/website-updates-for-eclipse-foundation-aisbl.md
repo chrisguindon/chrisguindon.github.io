@@ -27,7 +27,7 @@ Folks are no longuer required to naviate between multiple pages to find the info
 
 Given that our new members are now interested in joining an [Eclipse Working Groups](https://www.eclipse.org/org/workinggroups/explore.php), we wanted to make sure that important documents, such as the Working Group Partipation Agreement or the Working Group Charter, were easy to find. 
 
-Therefore, we thought changing the layout would help. We highlighted the Resources section to make it really visible on the page and we now have more space to grow and support additional documents in the future.
+Therefore, we thought changing the layout would help. We highlighted the Resources section to make it really visible on the page and now we have more space to grow and support additional documents in the future.
 
 [![Screenshot of how we now display Eclipse Working Groups on our website](/uploads/eclipse-working-groups-list.jpg "Screenshot of how we now display Eclipse Working Groups on our website")](https://www.eclipse.org/org/workinggroups/explore.php)
 
