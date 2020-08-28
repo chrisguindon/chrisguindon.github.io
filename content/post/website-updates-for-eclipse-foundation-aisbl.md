@@ -25,7 +25,7 @@ Folks are no longuer required to naviate between multiple pages to find the info
 
 ### 2. Eclipse Working Groups
 
-Given that our new members are now interested in joining our [Working Groups](https://www.eclipse.org/org/workinggroups/explore.php), we wanted to make sure that important documents, such as the Working Group Partipation Agreement or the Working Group Charter, were easy to find. 
+Given that our new members are now interested in joining an [Eclipse Working Groups](https://www.eclipse.org/org/workinggroups/explore.php), we wanted to make sure that important documents, such as the Working Group Partipation Agreement or the Working Group Charter, were easy to find. 
 
 Therefore, we thought changing the layout would help. We highlighted the Resources section to make it really visible on the page and we now have more space to grow and support additional documents in the future.
 
@@ -47,9 +47,9 @@ One of those changes is to [update the currency](https://bugs.eclipse.org/bugs/s
 
 We also need to publish the Eclipse Foundation AISBL Membership Agreement. This is a new agreement that members will be asked to sign as of October. To simplify the signing process, we will allow our members to sign the Membership Agreement with an eSignature.
 
-The list of remaining changes is available the bug [dependency tree](https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=566455) page.
+The list of remaining changes is available via the [dependency tree](https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=566455) of this project.
 
 [![Screenshot of dependency tree](/uploads/eclipse-membership-bug-list.jpg "Screenshot of dependency tree")](https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=566455)
 
 
-To learn more about our transition to Europe, please visit [eclipse.org/europe](https://www.eclipse.org/europe).
+To learn more about the Eclipse Foundation transition to Europe, please visit [eclipse.org/europe](https://www.eclipse.org/europe).
