@@ -11,9 +11,9 @@ tags:
 
 **Did you know that organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
 
-In November 2019, The [Eclipse IoT](https://iot.eclipse.org/) working group launched a campaign to promote [Adopters](https://iot.eclipse.org/adopters/) of Eclipse IoT technologies. Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
+In November 2019, The [Eclipse IoT](https://iot.eclipse.org/) working group launched a campaign to promote [adopters](https://iot.eclipse.org/adopters/) of Eclipse IoT technologies. Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
-With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
+With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
 This will allow us to create additionnal Adopters page for our working groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-Adoptor-of-eclipse-technology).
 
@@ -23,7 +23,7 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 ## What Is Changing? 
 
-We are migrating logos and related metadata to a new repository which means that Adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
+We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
 
 We plan on updating  our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
