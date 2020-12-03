@@ -11,15 +11,11 @@ tags:
 
 **Did you know that organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
 
-In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/).
-
-Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
+In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/). Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
 
-This will allow us to create additionnal Adopters page for our Working Group. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. 
-
-Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
+This will allow us to create additionnal Adopters page for our Working Groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
 
 On top of that, our projects will be able to leverage our JavaScript plugin to display these logos without committing them in their website git repository.
 
