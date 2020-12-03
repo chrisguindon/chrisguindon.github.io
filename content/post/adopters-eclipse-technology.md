@@ -17,7 +17,7 @@ Since the launch, more than 60 organizations have shown their support to various
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
-We plan on using this service to create an Adopters page for any Eclipse Working Group that wishes to have one. On top of that, our Projects  will be able to leverage our JavaScript widget to display logos of adopters on their website without committing the files' in their website git repository.
+We plan on using this service to create an Adopters page for any Eclipse Working Group that wishes to have one. On top of that, our projects will be able to leverage our JavaScript plugin to display logos of adopters without committing the files' in their website git repository.
 
 As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/ditto/) website.
 
