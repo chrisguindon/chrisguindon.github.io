@@ -15,9 +15,9 @@ In November 2019, The Eclipse IoT working group launched a campaign to promote [
 
 Since the launch, more than 60 organizations have shown their support to various Eclipse technologies.
 
-With that success in mind, we decided to build a new API service that will capture [adopters of every Eclipse project](https://github.com/EclipseFdn/eclipsefdn-project-adopters)!
+With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
-This new service will enable us to create an Adopters page on each of our Eclipse Working Group website and for our projects, they will be able to use our JavaScript widget to display logos of adopters on their website without committing the files' in their website git repository.
+We plan on using this service to create an Adopters page for any Eclipse Working Group that wishes to have one. On top of that, our Projects  will be able to leverage our JavaScript widget to display logos of adopters on their website without committing the files' in their website git repository.
 
 As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/ditto/) website.
 
