@@ -27,9 +27,10 @@ We are migrating logos and related metadata to a new repository which means that
 
 We also plan on updating the our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
-It’s important to understand that the process is very similar with this new repository but we did make some improvements. 
+It’s important to understand that the process is very similar with this new repository but we did make some improvements: 
 
-The path for our logos is different and more importantly, the adopters metadata file was re-defined. We decided to use .json instead of .yml to avoid user errors. The structure of the file is changing to make it easier for an organization to acquire more than one Eclipse technology.
+1. The path for our logos is different and more importantly, the adopters metadata file was re-defined. We decided to use .json instead of .yml to avoid user errors. 
+2. The structure of the file is changing to make it easier for an organization to acquire more than one Eclipse technology.
 
 However, we expect this change will be seamless for our projects and users of our sites. The content of the adopters page is not changing, we are simply updating the way that we store and fetch this information and the JavaScript widget hosted on iot.eclipse.org will continue to work as is. An Eclipse project website that is already using our JavaScript widget won’t be required to make any changes for this migration.
 
