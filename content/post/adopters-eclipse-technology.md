@@ -28,7 +28,10 @@ This new service is allowing Eclipse project websites to display adopters' logos
 
 We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will need to start to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
 
+We plan on updating the IoT Documentation on that day to point new users to this new repository. If an issues is created in the wrong repository, we will simply move the issue to the new repository,
+
 It’s important to understand that the process is very similar with this new repository. We’ve changed the path for our logos and more importantly, the adopters metadata file was re-designed. We decided to use .json instead of .yml to avoid user  errors. The structure was also simplified to make it easier for an organization to adopt more than one Eclipse technology.
+
 However, we expect this change will be seamless for our projects and users of our sites. The content of the adopters page is not changing, we are simply updating the way that we store and fetch this information.
 
 ## What Is the Process for Becoming an Adopter?
