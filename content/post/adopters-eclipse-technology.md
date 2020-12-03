@@ -11,7 +11,7 @@ tags:
 
 **Did you know that organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
 
-In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/). For those who don't know, Adopters are organizations that voluntarily show their support for an Eclipse project.
+In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/).
 
 Since the launch, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
