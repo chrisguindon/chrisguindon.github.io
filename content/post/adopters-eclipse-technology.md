@@ -11,11 +11,11 @@ tags:
 
 **Did you know that organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
 
-In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters](https://iot.eclipse.org/adopters/) of Eclipse IoT technologies. Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
+In November 2019, The [Eclipse IoT](https://iot.eclipse.org/) working group launched a campaign to promote [Adopters](https://iot.eclipse.org/adopters/) of Eclipse IoT technologies. Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
 
-This will allow us to create additionnal Adopters page for our Working Groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
+This will allow us to create additionnal Adopters page for our working groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
 
 On top of that, our projects will be able to leverage our JavaScript plugin to display these logos without committing them in their website git repository.
 
@@ -33,7 +33,7 @@ The process is very similar with this new repository but we did make some improv
 2. The file format is changing from [.yml](https://github.com/EclipseFdn/iot.eclipse.org/blob/master/data/adopters.yml) to [.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json) to reduce user errors.
 3. The structure of the file was modified to make it easier for an organization to adopt multiple projects.
 
-We expect this change will be seamless. The content of the Eclipse IoT Adopters page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
+We expect this change will be seamless. The content of the Eclipse IoT [Adopters](https://iot.eclipse.org/adopters/) page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
 
 ## How Can My Organization Become an Adaptor of Eclipse Technology?
 
