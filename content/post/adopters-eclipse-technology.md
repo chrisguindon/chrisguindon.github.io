@@ -17,7 +17,10 @@ Since the launch, more than 60 organizations have shown their support to various
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
-We plan on using this service to create more of these Adopters pages. We are planing to start this off with a new Adopters page for Eclipse Cloud Development Tools! Organzation that wishes to be listed on theor new Adopters page can submit their PR/issue today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology) in this blog post..
+This will enable us to create an Eclipse Cloud Development Tools
+ Adopters page before the end of the year and probably a few more in Q1 of 2021.
+ 
+Organzation that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
 
 On top of that, our projects will be able to leverage our JavaScript plugin to display logos of their Adopters without committing the files' in their website git repository.
 
