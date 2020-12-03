@@ -19,9 +19,10 @@ With that success in mind, we decided to build a new API service that will captu
 
 This new service will enable us to create an Adopters page on each of our Eclipse Working Group website and for our projects, they will be able to use our JavaScript widget to display logos of adopters on their website. 
 
-As an example, you can check out the Eclipse Ditto website: https://www.eclipse.org/ditto/.
+With this service, Eclipse projects can display adapters' logos without committing the files' in their website git repository.
 
-This new service is allowing Eclipse project websites to display adopters' logos without committing the files' logos in their website git repository.
+As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/ditto/) website.
+
 
 
 ## What Is Changing? 
