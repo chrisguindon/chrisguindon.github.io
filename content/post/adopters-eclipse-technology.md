@@ -15,7 +15,7 @@ In November 2019, The Eclipse IoT working group launched a campaign to promote [
 
 Since the launch, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
-With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
+With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
 
 This will allow us to create additionnal Adopters page for our Working Group. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. 
 
@@ -27,7 +27,7 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 ## What Is Changing? 
 
-We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
+We are migrating logos and related metadata to a new repository which means that Adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
 
 We plan on updating  our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
@@ -37,7 +37,7 @@ The process is very similar with this new repository but we did make some improv
 2. The file format is changing from [.yml](https://github.com/EclipseFdn/iot.eclipse.org/blob/master/data/adopters.yml) to [.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json) to reduce user errors.
 3. The structure of the file was modified to make it easier for an organization to adopt multiple projects.
 
-We expect this change will be seamless. The content of the Eclipse IoT adopters page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
+We expect this change will be seamless. The content of the Eclipse IoT Adopters page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
 
 ## How Can My Organization Become an Adaptor of Eclipse Technology?
 
