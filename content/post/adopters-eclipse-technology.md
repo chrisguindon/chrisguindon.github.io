@@ -25,7 +25,7 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
 
-We also plan on updating the IoT Documentation on that day to point new users to this new repository. It won’t be a problem, if an issue is created in the wrong repository, we will simply move the issue to the right location.
+We also plan on updating the our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
 It’s important to understand that the process is very similar with this new repository but we did make some improvements. 
 
