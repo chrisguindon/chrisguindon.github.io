@@ -15,7 +15,7 @@ In November 2019, The [Eclipse IoT](https://iot.eclipse.org/) working group laun
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
 
-This will allow us to create additionnal Adopters page for our working groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
+This will allow us to create additionnal Adopters page for our working groups. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-Adoptor-of-eclipse-technology).
 
 On top of that, our projects will be able to leverage our JavaScript plugin to display these logos without committing them in their website git repository.
 
@@ -35,7 +35,7 @@ The process is very similar with this new repository but we did make some improv
 
 We expect this change will be seamless. The content of the Eclipse IoT [Adopters](https://iot.eclipse.org/adopters/) page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
 
-## How Can My Organization Become an Adaptor of Eclipse Technology?
+## How Can My Organization Become an Adoptor of Eclipse Technology?
 
 The preferred way to become an adapter is with a [pull-request](https://github.com/EclipseFdn/eclipsefdn-project-adopters):
 
