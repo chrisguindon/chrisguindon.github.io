@@ -34,8 +34,9 @@ We also plan on updating the our documentation to point new users to this new re
 
 It’s important to understand that the process is very similar with this new repository but we did make some improvements: 
 
-1. The path for our logos is different and more importantly, the adopters metadata file was re-defined. We decided to use .json instead of .yml to avoid user errors. 
-2. The structure of the file is changing to make it easier for an organization to acquire more than one Eclipse technology.
+1. The path where we store logos has changed
+2. The file format is changing from [.yml](https://github.com/EclipseFdn/iot.eclipse.org/blob/master/data/adopters.yml) to [.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json) to reduce user errors.
+3. The structure of the file was modified to make it easier for an organization to adopt multiple projects.
 
 However, we expect this change will be seamless for our projects and users of our sites. The content of the adopters page is not changing, we are simply updating the way that we store and fetch this information and the JavaScript widget hosted on iot.eclipse.org will continue to work as is. An Eclipse project website that is already using our JavaScript widget won’t be required to make any changes for this migration.
 
