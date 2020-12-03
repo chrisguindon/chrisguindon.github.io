@@ -9,7 +9,7 @@ tags:
   - eclipse
 ---
 
-**Did you know that Organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
+**Did you know that organizations — whether they are members of the Eclipse Foundation or not — can be listed as Eclipse technology adopters?**
 
 In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/). To clarify, Adopters are organizations that voluntarily show their support for an Eclipse project.
 
@@ -17,9 +17,19 @@ Since the launch, more than 60 organizations have shown their support to various
 
 With that success in mind, we decided to build a new API service that will capture [adopters of every Eclipse project](https://github.com/EclipseFdn/eclipsefdn-project-adopters)!
 
-This new service will allow us to create an Adopters page on each of our Eclipse Working Group website and for our projects, they will be able to use our JavaScript widget to display logos of adopters on their website. As an example, the Eclipse Ditto website is already doing this: https://www.eclipse.org/ditto/.
+This new service will enable us to create an Adopters page on each of our Eclipse Working Group website and for our projects, they will be able to use our JavaScript widget to display logos of adopters on their website. 
 
-By creating this standardized service for storing adopters' logos. Our Eclipse project website can now logo of their adopters without committing the files' logos in their website git repository.
+As an example, you can check out the Eclipse Ditto website: https://www.eclipse.org/ditto/.
+
+This new service is allowing Eclipse project websites to display adopters' logos without committing the files' logos in their website git repository.
+
+
+## What Is Changing? 
+
+We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will need to start to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
+
+It’s important to understand that the process is very similar with this new repository. We’ve changed the path for our logos and more importantly, the adopters metadata file was re-designed. We decided to use .json instead of .yml to avoid user  errors. The structure was also simplified to make it easier for an organization to adopt more than one Eclipse technology.
+However, we expect this change will be seamless for our projects and users of our sites. The content of the adopters page is not changing, we are simply updating the way that we store and fetch this information.
 
 ## What Is the Process for Becoming an Adopter?
 
@@ -30,11 +40,6 @@ The preferred way to become an adapter is with a [pull-request](https://github.c
 
 The alternative way to become an adopter is to submit an issue with the logo and the project name that your organization has adopted. 
 
-## What Is Changing? 
-
-We are migrating logos and metadata to a new repo which means that adopters of Eclipse IoT technologies will need to submit their request to this new repo. This change will occur on December 10, 2020.
-
-However, we expect this change will be seamless for our projects and users of our site. The content of the  adopters page is not changing, we are simply updating the way that we store and fetch this information.
 
 ## How Can We List Adopters on Our Project Website?
 
