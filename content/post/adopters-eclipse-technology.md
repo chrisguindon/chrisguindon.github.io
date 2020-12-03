@@ -13,7 +13,7 @@ tags:
 
 In November 2019, The Eclipse IoT working group launched a campaign to promote [adopters of Eclipse IoT technologies](https://iot.eclipse.org/adopters/).
 
-Since the launch, more than 60 organizations have shown their support to various Eclipse IoT projects.
+Since then, more than 60 organizations have shown their support to various Eclipse IoT projects.
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing Adopters for all our projects.
 
