@@ -17,12 +17,11 @@ Since the launch, more than 60 organizations have shown their support to various
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
-This will enable us to create an Eclipse Cloud Development Tools
- Adopters page before the end of the year and probably a few more in Q1 of 2021.
- 
-Organzation that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
+This will allow us to create additionnal Adopters page for our Working Group. We plan on creating one for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/) before the end of the year. 
 
-On top of that, our projects will be able to leverage our JavaScript plugin to display logos of their Adopters without committing the files' in their website git repository.
+Organzations that wishes to be listed on this new Adopters page can submit their request today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology).
+
+On top of that, our projects will be able to leverage our JavaScript plugin to display these logos without committing them in their website git repository.
 
 As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/ditto/) website.
 
@@ -30,15 +29,15 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
 
-We also plan on updating the our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
+We plan on updating  our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
-It’s important to understand that the process is very similar with this new repository but we did make some improvements: 
+The process is very similar with this new repository but we did make some improvements: 
 
-1. The path where we store logos has changed
+1. The path where we store logos is changing
 2. The file format is changing from [.yml](https://github.com/EclipseFdn/iot.eclipse.org/blob/master/data/adopters.yml) to [.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json) to reduce user errors.
 3. The structure of the file was modified to make it easier for an organization to adopt multiple projects.
 
-However, we expect this change will be seamless for our projects and users of our sites. The content of the adopters page is not changing, we are simply updating the way that we store and fetch this information and the JavaScript widget hosted on iot.eclipse.org will continue to work as is. An Eclipse project website that is already using our JavaScript widget won’t be required to make any changes for this migration.
+We expect this change will be seamless. The content of the Eclipse IoT adopters page won't change with this migration and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
 
 ## How Can My Organization Become an Adaptor of Eclipse Technology?
 
@@ -47,8 +46,7 @@ The preferred way to become an adapter is with a [pull-request](https://github.c
 1. Add a **colored** and a **white** organization logo to [static/assets/images/adoptors](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json). We expect logos to be submitted as .svg and they must be transparent. The file size should be less than 20kb since we are planning to use them for the web!
 2. Update the adopter JSON file: [config/adopters.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json). Organizations can be easily marked as having multiple adopted projects across different working groups, no need to create separate entries for different projects or working groups!
 
-The alternative way to become an adopter is to submit an issue with the logo and the project name that your organization has adopted. 
-
+The alternative way to become an adopter is to submit an issue with your logo and the project name that your organization has adopted. 
 
 ## How Can We List Adopters on Our Project Website?
 
