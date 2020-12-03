@@ -19,7 +19,7 @@ With that success in mind, we decided to build a new [API service](https://githu
 
 We plan on using this service to create more of these Adopters pages. We are planing to start this off with a new Adopters page for Eclipse Cloud Development Tools! Organzation that wishes to be listed on theor new Adopters page can submit their PR/issue today by following our [instructions](#how-can-my-organization-become-an-adaptor-of-eclipse-technology) in this blog post..
 
-On top of that, our projects will be able to leverage our JavaScript plugin to display logos of adopters without committing the files' in their website git repository.
+On top of that, our projects will be able to leverage our JavaScript plugin to display logos of their Adopters without committing the files' in their website git repository.
 
 As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/ditto/) website.
 
