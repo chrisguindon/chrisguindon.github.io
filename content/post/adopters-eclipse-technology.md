@@ -23,7 +23,7 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 ## What Is Changing? 
 
-We are migrating logos and related metadata to a new repository. This means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on **December 10, 2020**. 
+We are migrating logos and related metadata to a new [repository](https://github.com/EclipseFdn/eclipsefdn-project-adopters). This means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on **December 10, 2020**. 
 
 We plan on updating  our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
