@@ -37,7 +37,7 @@ We expect this change to go uninterrupted to our users. The content of the Eclip
 
 ## How Can My Organization be Listed as Adoptor of Eclipse Technology?
 
-The preferred way to become an adopter is with a [pull-request](https://github.com/EclipseFdn/eclipsefdn-project-adopters):
+The preferred way to become an adopter is with a [pull-request](https://github.com/EclipseFdn/eclipsefdn-project-adopters/pulls):
 
 1. Add a **colored** and a **white** organization logo to [static/assets/images/adoptors](https://github.com/EclipseFdn/eclipsefdn-project-adopters/tree/master/static/assets/images/adopters). We expect logos to be submitted as .svg and they must be transparent. The file size should be less than 20kb since we are planning to use them for the web!
 2. Update the adopter JSON file: [config/adopters.json](https://github.com/EclipseFdn/eclipsefdn-project-adopters/blob/master/config/adopters.json). Organizations can be easily marked as having multiple adopted projects across different working groups, no need to create separate entries for different projects or working groups!
