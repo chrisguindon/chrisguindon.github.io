@@ -15,7 +15,7 @@ In November 2019, The [Eclipse IoT](https://iot.eclipse.org/) working group laun
 
 With that success in mind, we decided to build a new [API service](https://github.com/EclipseFdn/eclipsefdn-project-adopters) responsible for managing adopters for all our projects.
 
-If needed, this new service will allow us to create an Adopters page for each of our working groups. This is something that we are currently working on for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/). Organizations that wishes to be listed on this new page can submit their request today by following our [instructions](#how-can-my-organization-become-an-Adoptor-of-eclipse-technology).
+If needed, this new service will allow us to create an Adopters page for each of our working groups. This is something that we are currently working on for [Eclipse Cloud Development Tools](https://ecdtools.eclipse.org/). Organizations that wishes to be listed on this new page can submit their request today by following our [instructions](#how-can-my-organization-be-listed-as-adoptor-of-eclipse-technology).
 
 On top of that, every Eclipse project can now leverage our JavaScript plugin to display logos of adopters without committing them in their website git repository.
 
