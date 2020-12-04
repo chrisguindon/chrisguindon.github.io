@@ -1,7 +1,7 @@
 ---
 title: Become an Eclipse Technology Adopter
 author: Christopher Guindon
-date: '2020-12-04T12:30:00-05:00'
+date: '2020-12-04T12:50:00-05:00'
 draft: false
 categories:
   - technology
@@ -23,7 +23,7 @@ As an example, you can check out the [Eclipse Ditto](https://www.eclipse.org/dit
 
 ## What Is Changing? 
 
-We are migrating logos and related metadata to a new repository which means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on December 10, 2020. 
+We are migrating logos and related metadata to a new repository. This means that adopters of Eclipse IoT technologies will be asked to submit their request to this new repository. This change is expected to occur on **December 10, 2020**. 
 
 We plan on updating  our documentation to point new users to this new repository. If an issue is created in the wrong repository, we will simply move the issue to the right location.
 
@@ -34,6 +34,8 @@ The process is very similar with this new repository but we did make some improv
 3. The structure of the file was modified to make it easier for an organization to adopt multiple projects.
 
 We expect this change to go uninterrupted to our users. The content of the Eclipse IoT [Adopters](https://iot.eclipse.org/adopters/) page won't change and the JavaScript widget hosted on iot.eclipse.org will continue to work as is.
+
+Please create an [issue](https://github.com/EclipseFdn/eclipsefdn-project-adopters/issues/new?template=bug_report.md) if you have any questions or concerns regarding this migreation.
 
 ## How Can My Organization be Listed as Adoptor of Eclipse Technology?
 
