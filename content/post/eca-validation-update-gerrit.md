@@ -13,7 +13,9 @@ We are planning to install a new version of our Gerrit ECA validation plugin thi
 
 With this update, we are moving our validation logic to our new [ECA Validation API](https://github.com/EclipseFdn/git-eca-rest-api) that we created for our new Gitlab instance.
 
-We are planning to push these changes live on **Wednesday, December 9 at 16:00 GMT**, though there is no planned downtime associated with this update other that the time required to restart the server with the new version of our plugin.
+We are planning to push these changes live on **Wednesday, December 9 at 16:00 GMT**, though there is no planned downtime associated with this update.
+
+Our plan is to revert back to a previous version of the plugin if we detect any anomalies after deploying this change.
 
 Please note that we are also planning to apply these changes to our [GitHub ECA validation app](https://github.com/apps/eclipse-eca-validation) in Q1 of 2021. You can expect more news about this in the new year!
 
