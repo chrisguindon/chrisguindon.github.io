@@ -9,7 +9,8 @@
     "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt"
   },
   "napa": {
-    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme#master"
+    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme#master",
+    "hugo-theme-meme": "https://github.com/reuixiy/hugo-theme-meme"
   },
   "repository": {
     "type": "git",
