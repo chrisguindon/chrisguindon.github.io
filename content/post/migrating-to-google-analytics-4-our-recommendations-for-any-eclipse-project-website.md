@@ -34,6 +34,6 @@ Additionally, we recommend that projects [opt-out](https://support.google.com/an
 
 Upgrading to GA 4 will not only provide access to new features and benefits but will also ensure that project websites are prepared for the future of Google Analytics before the end of support for Universal Analytics.
 
-As always, we are here to support you with any questions or concerns you may have. Please do not hesitate to reach out to us via issue #2630 in our [Helpdesk](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2630).
+As always, we are here to support you with any questions or concerns you may have. Please do not hesitate to reach out to us via [issue #2630](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/2630) in our Helpdesk.
 
 You can also find additional information and requirements around the acceptable usage of GA for Eclipse projects in our [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf).
