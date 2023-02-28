@@ -1,8 +1,6 @@
 ---
-title: "Migrating to Google Analytics 4: Recommendations for Any Eclipse Project
-  Website"
-linktitle: "Migrating to Google Analytics 4: Recommendations for Any Eclipse
-  Project Website"
+title: "Migrating to Google Analytics 4: Recommendations for Eclipse Project Websites"
+linktitle: "Migrating to Google Analytics 4: Recommendations for Eclipse Project Websites"
 author: Christopher Guindon
 date: 2023-02-28T19:20:40.731Z
 draft: false
