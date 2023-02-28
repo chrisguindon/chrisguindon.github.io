@@ -10,8 +10,6 @@ keywords:
   - GoogleAnalytics4
   - GA4migration
 ---
-As part of our commitment to providing the best possible service to our community, we would like to take a moment to share some recommendations regarding the use of Google Analytics (GA) for Eclipse project websites.
-
 As you may be aware, [Google Analytics 4 is being rolled out as a replacement for Universal Analytics](https://support.google.com/analytics/answer/11583528?hl=en). While Universal Analytics is still supported at this time, Google has announced that they will stop processing new hits for all standard Universal Analytics properties on July 1, 2023.
 
 Therefore, we strongly recommend that all projects currently using GA take some time to re-evaluate whether it is still necessary for their needs. If the data provided by GA is no longer useful or necessary, we recommend that projects remove GA from their website.
