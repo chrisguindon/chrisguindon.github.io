@@ -1,7 +1,7 @@
 ---
-title: "Migrating to Google Analytics 4: Our Recommendations for Any Eclipse
-  Project Website"
-linktitle: "Migrating to Google Analytics 4: Our Recommendations for Any Eclipse
+title: "Migrating to Google Analytics 4: Recommendations for Any Eclipse Project
+  Website"
+linktitle: "Migrating to Google Analytics 4: Recommendations for Any Eclipse
   Project Website"
 author: Christopher Guindon
 date: 2023-02-28T18:43:40.731Z
@@ -23,6 +23,10 @@ If it is determined that the data is still relevant and useful for the project, 
 We believe this is the safest way for projects to confirm that all is well, as we cannot assume that the automatic GA migration will work as expected for everyone. Also, it’s the only way for projects to ensure that explicit consent has been given by the user via our cookie consent banner before enabling GA.
 
 As a reminder, it’s possible to add our cookie consent banner to any website by adding the following code snippet in the <head></head> section of each page:
+
+> <link rel="stylesheet" type="text/css" href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+>
+> <script src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js"></script> 
 
 A project website with GA must then ensure that the value of the **eclipse_cookieconsent_status** cookie is set to **“allow”** before loading GA on a webpage.
 
