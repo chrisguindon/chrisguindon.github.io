@@ -5,7 +5,7 @@
   "main": "package.json",
   "scripts": {
     "install": "yarn run fetch-theme",
-    "fetch-theme": "mkdir -p themes && git clone https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/hugo-cactus-theme",
+    "fetch-theme": "rm -rf themes/hugo-cactus-theme && mkdir themes && git clone https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/hugo-cactus-theme",
     "postinstall": "mkdir -p static/fonts && cp -rf themes/hugo-cactus-theme/static/fonts/* static/fonts"
   },
   "repository": {
