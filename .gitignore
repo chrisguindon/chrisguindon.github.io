@@ -9,3 +9,5 @@
 /hugo_cache/
 /static/fonts
 /layouts/robots.txt
+/themes/hugo-cactus-theme
+.hugo_build.lock

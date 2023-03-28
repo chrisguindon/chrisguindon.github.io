@@ -4,12 +4,9 @@
   "description": "Christopher Guindon - Eclipse Foundation - Blog",
   "main": "package.json",
   "scripts": {
-    "install": "napa",
-    "postinstall": "mkdir -p static/fonts && cp -rf node_modules/hugo-cactus-theme/static/fonts/* static/fonts",
-    "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt"
-  },
-  "napa": {
-    "hugo-cactus-theme": "digitalcraftsman/hugo-cactus-theme#master"
+    "install": "yarn run fetch-theme",
+    "fetch-theme": "mkdir -p themes && git clone https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/hugo-cactus-theme",
+    "postinstall": "mkdir -p static/fonts && cp -rf themes/hugo-cactus-theme/static/fonts/* static/fonts"
   },
   "repository": {
     "type": "git",
@@ -20,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/chrisguindon/chrisguindon.github.io/issues"
   },
-  "homepage": "https://www.chrisguindon.com",
-  "devDependencies": {},
-  "dependencies": {
-    "napa": "^3.0.0"
-  }
+  "homepage": "https://www.chrisguindon.com"
 }
