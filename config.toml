@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://www.chrisguindon.com/"
 languageCode = "en-us"
-title = "Christopher Guindon - Eclipse Foundation - Manager, Web Development at The Eclipse Foundation"
+title = "Christopher Guindon - Manager, Web Development at The Eclipse Foundation"
 theme = "hugo-cactus-theme"
 #themesDir = "node_modules/"
 googleAnalytics = "UA-24646327-8"
@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 [params]
   name = "Christopher Guindon"
-  description = "Hello world! When I am not at a computer, which is rare, I spend my time playing the drums, watching hockey or at the top of a hill snowboarding. I am also very passionate about music and live concerts!"
+  description = "Hello world! I am a highly skilled web developer with over 16 years of experience in all stages of the development cycle for web projects. In addition to my technical expertise, I also have extensive experience managing teams of developers, ensuring that projects are completed on time, within budget, and to the highest quality standards. "
   bio = "Manager, Web Development at The Eclipse Foundation"
   twitter = "chrisguindon"
   enableRSS = true
