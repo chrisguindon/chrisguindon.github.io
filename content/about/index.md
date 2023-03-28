@@ -7,8 +7,6 @@ hidden: true
 ---
 I am a highly skilled web developer with over 16 years of experience in all stages of the development cycle for web projects. In addition to my technical expertise, I also have extensive experience managing teams of developers, ensuring that projects are completed on time, within budget, and to the highest quality standards. 
 
-
-
 As a passionate and dedicated employee, I have strong analytical, troubleshooting, and problem-solving skills, which enable me to identify and resolve issues quickly and effectively.
 
 I have been involved in web design since the mid-90's. At 12 years old I was learning HTML to build a french video game review website. This is when my passion for web development started.
