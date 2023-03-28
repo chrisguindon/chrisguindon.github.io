@@ -1,7 +1,7 @@
 # chrisguindon.github.io
 My personal website.
 
-[![Build Status](https://travis-ci.org/chrisguindon/chrisguindon.github.io.svg?branch=src)](https://travis-ci.org/chrisguindon/chrisguindon.github.io) [![Netlify Status](https://api.netlify.com/api/v1/badges/f6c3e3fe-395f-419d-898d-c026c54e1a45/deploy-status)](https://app.netlify.com/sites/chrisguindon/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6c3e3fe-395f-419d-898d-c026c54e1a45/deploy-status)](https://app.netlify.com/sites/chrisguindon/deploys)
 
 ## Requirements
 * [Hugo](http://gohugo.io/)
@@ -28,7 +28,7 @@ You can install a pre-built version of node.js via the [downloads page](https://
 git clone git@github.com:chrisguindon/chrisguindon.github.io.git
 cd chrisguindon.github.io
 npm install
-hugo
+hugo server
 ```
 
 ## Author
@@ -40,4 +40,4 @@ hugo
 
 ## Copyright and license
 
-Copyright 2009-2019 Christopher Guindon. All Rights Reserved. Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/chrisguindon/chrisguindon.github.io/blob/src/LICENSE).
+Copyright 2009-2023 Christopher Guindon. All Rights Reserved. Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/chrisguindon/chrisguindon.github.io/blob/src/LICENSE).
