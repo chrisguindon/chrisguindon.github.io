@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.chrisguindon.com/"
+baseurl = "https://www.chrisguindon.com"
 languageCode = "en-us"
 title = "Christopher Guindon - Manager, Web Development at The Eclipse Foundation"
 theme = "hugo-cactus-theme"
