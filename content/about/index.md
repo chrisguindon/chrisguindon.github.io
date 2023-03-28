@@ -1,7 +1,7 @@
 ---
 title: About
 author: Christopher Guindon
-date: 2017-09-25T12:02:37.000Z
+date: 2023-03-28T12:02:37.000Z
 draft: false
 hidden: true
 ---
