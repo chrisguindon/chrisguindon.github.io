@@ -3,7 +3,7 @@ title: Help Us Test the New Version of the Eclipse Marketplace Website
 linktitle: Help Us Test the New Version of the Eclipse Marketplace Website
 author: Christopher Guindon
 date: 2023-08-17T13:52:17.022Z
-draft: true
+draft: false
 tags:
   - eclipse
 keywords:
