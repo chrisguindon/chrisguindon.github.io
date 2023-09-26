@@ -35,7 +35,7 @@ To provide some context, we're migrating a total of six key websites:
 * **[accounts.eclipse.org](https://accounts.eclipse.org/):** The Eclipse Account website is where our users go to manage their profiles and sign essential agreements, like the Eclipse Contributor Agreement (ECA) and the Eclipse Individual Committer Agreement (ICA).
 * **[blogs.eclipse.org](https://blogs.eclipse.org/):** Our official blogging platform for Foundation staff.
 * **[newsroom.eclipse.org](https://newsroom.eclipse.org/):** The Eclipse Newsroom is our content management system for news, events, newsletters, and valuable resources like case studies, market reports, and whitepapers.
-* **[marketplace.eclipse.org](https://marketplace.eclipse.org/):** The Eclipse Marketplace allows users to discover solutions that will simplify and improve the way you do things in your Eclipse installation.
+* **[marketplace.eclipse.org](https://marketplace.eclipse.org/):** The Eclipse Marketplace empowers users to discover solutions that enhance their Eclipse IDE. 
 * **[eclipse.org/downloads/packages](https://www.eclipse.org/downloads/packages/)**: The Eclipse Packaging website is our platform for managing the publication of download links for the Eclipse Installer and Eclipse IDE Packages on our websites.
 
 ## The Progress So Far
