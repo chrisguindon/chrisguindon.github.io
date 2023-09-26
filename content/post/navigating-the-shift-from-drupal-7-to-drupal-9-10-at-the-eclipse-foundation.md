@@ -7,7 +7,25 @@ draft: true
 categories: []
 tags:
   - eclipse
-keywords: []
+  - jakartaee
+keywords:
+  - Drupal
+  - Drupal Migration
+  - Drupal 7 to Drupal 10
+  - Website Migration
+  - Eclipse Community
+  - Eclipse Foundation
+  - API
+  - Eclipse Marketplace
+  - Digital Transformation
+  - Eclipse Project Management Infrastructure
+  - CMS Migration
+  - Content Management
+  - API Integration
+  - Team Collaboration
+  - Future-Proofing
+  - Web Development
+  - Digital Transition
 ---
 We're currently in the middle of a substantial transition as we are migrating mission-critical websites from Drupal 7 to Drupal 9, with our sights set on Drupal 10. This shift has been prompted by several factors, including the announcement of [Drupal 7 end-of-life](https://www.drupal.org/psa-2023-06-07) which is now scheduled for January 5, 2025, and our goal to reduce technical debt that we accrued over the last decade.
 
