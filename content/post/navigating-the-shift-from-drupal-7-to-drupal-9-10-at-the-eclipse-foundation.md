@@ -40,7 +40,7 @@ To provide some context, we're migrating a total of six key websites:
 
 ## The Progress So Far
 
-We’ve made substantial progress this year with our migration efforts. The team successfully completed the migration of [Eclipse Blogs](https://blogs.eclipse.org/) and [Eclipse Newsroom](https://newsroom.eclipse.org/). We are also in the final stages of development with the [Eclipse Marketplace](https://marketplace.eclipse.org/), which is currently slated for a production release on October 25, 2023. Next year, we'll focus our attention on completing the migration of our more substantial sites, such as [Eclipse PMI](https://projects.eclipse.org/), [Eclipse Accounts](https://accounts.eclipse.org/), and [Eclipse Packaging](https://www.eclipse.org/downloads/packages/).
+We’ve made substantial progress this year with our migration efforts. The team successfully completed the migration of [Eclipse Blogs](https://blogs.eclipse.org/) and [Eclipse Newsroom](https://newsroom.eclipse.org/). We are also in the final stages of development with the [Eclipse Marketplace](https://marketplace.eclipse.org/), which is currently scheduled for a production release on October 25, 2023. Next year, we'll focus our attention on completing the migration of our more substantial sites, such as [Eclipse PMI](https://projects.eclipse.org/), [Eclipse Accounts](https://accounts.eclipse.org/), and [Eclipse Packaging](https://www.eclipse.org/downloads/packages/)
 
 ## More Than a Simple Migration: Decoupling Drupal APIs With Quarkus
 
