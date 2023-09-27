@@ -27,7 +27,7 @@ keywords:
   - Web Development
   - Digital Transition
 ---
-We're currently in the middle of a substantial transition as we are migrating mission-critical websites from Drupal 7 to Drupal 9, with our sights set on Drupal 10. This shift has been prompted by several factors, including the announcement of [Drupal 7 end-of-life](https://www.drupal.org/psa-2023-06-07) which is now scheduled for January 5, 2025, and our goal to reduce technical debt that we accrued over the last decade.
+We're currently in the middle of a substantial transition as we are migrating mission-critical websites from Drupal 7 to Drupal 9, with our sights set on Drupal 10. This shift has been motivated by several factors, including the announcement of [Drupal 7 end-of-life](https://www.drupal.org/psa-2023-06-07) which is now scheduled for January 5, 2025, and our goal to reduce technical debt that we accrued over the last decade.
 
 To provide some context, we're migrating a total of six key websites:
 
