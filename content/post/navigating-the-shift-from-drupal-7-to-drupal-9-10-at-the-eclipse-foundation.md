@@ -53,6 +53,6 @@ This initiative isn't just about moving from one version of Drupal to another. S
 
 ## Conclusion: A Forward-Looking Transition
 
-Our migration journey from Drupal 7 to Drupal 9 and the future upgrade to Drupal 10 represents our commitment to providing a secure, efficient, and user-friendly online experience for our community. 
+Our migration journey from Drupal 7 to Drupal 9, with plans for Drupal 10, represents our commitment to providing a secure, efficient, and user-friendly online experience for our community. We are excited about the possibilities this migration will unlock for us, advancing us toward a more modern web stack. 
 
 Finally, I'd like to take this moment to highlight that this project is a monumental team effort, thanks to the exceptional contributions of Eric Poirier and Théodore Biadala, our Drupal developers; Martin Lowe and Zachary Sabourin, our Java developers implementing the API decoupling objective; and Frederic Gurr, whose support has been instrumental in deploying our new apps on the Eclipse Infrastructure.
