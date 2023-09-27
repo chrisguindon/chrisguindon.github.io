@@ -47,7 +47,7 @@ We’ve made substantial progress this year with our migration efforts. The team
 This initiative isn't just about moving from one version of Drupal to another. Simultaneously, we're undertaking the task of decoupling essential APIs from Drupal in the hope that future migration or upgrade won’t impact as many core services at the same time. For this purpose, we've chosen [Quarkus](https://quarkus.io/about/) as our preferred platform. In Q3 2023, the team successfully migrated the GitHub ECA Validation Service and the Open-VSX Publisher Agreement Service from Drupal to Quarkus. In Q4 2023, we're planning to continue down that path and deploy a Quarkus implementation of several critical APIs such as:
 
 * Account Profile API: This API offers user information, covering ECA status and profile details like bios.
-* User Deletion API: This API monitors user deletion requests to comply with data privacy regulations, ensuring the right to be forgotten.
+* User Deletion API: This API monitors user deletion requests ensuring the right to be forgotten.
 * Committer Paperwork API: This API keeps tabs on the status of ongoing committer paperwork records.
 * Eclipse USS: The Eclipse User Storage Service (USS) allows Eclipse projects to store user-specific project information on the Eclipse Foundation servers.
 
