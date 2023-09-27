@@ -2,7 +2,7 @@
 title: Navigating the Shift From Drupal 7 to Drupal 9/10 at the Eclipse Foundation
 linktitle: Navigating the Shift From Drupal 7 to Drupal 9/10 at the Eclipse Foundation
 author: Christopher Guindon
-date: 2023-09-27T14:00:00.065Z
+date: 2023-09-27T14:30:00.065Z
 draft: false
 categories: []
 tags:
