@@ -49,7 +49,7 @@ This initiative isn't just about moving from one version of Drupal to another. S
 * Account Profile API: This API offers user information, covering ECA status and profile details like bios.
 * User Deletion API: This API monitors user deletion requests ensuring the right to be forgotten.
 * Committer Paperwork API: This API keeps tabs on the status of ongoing committer paperwork records.
-* Eclipse USS: The Eclipse User Storage Service (USS) allows Eclipse projects to store user-specific project information on the Eclipse Foundation servers.
+* Eclipse USS: The Eclipse User Storage Service (USS) allows Eclipse projects to store user-specific project information on our servers.
 
 ## Conclusion: A Forward-Looking Transition
 
