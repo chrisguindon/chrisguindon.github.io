@@ -2,7 +2,7 @@
 title: Navigating the Shift From Drupal 7 to Drupal 9/10 at the Eclipse Foundation
 linktitle: Navigating the Shift From Drupal 7 to Drupal 9/10 at the Eclipse Foundation
 author: Christopher Guindon
-date: 2023-09-27T12:30:43.065Z
+date: 2023-09-27T13:00:43.065Z
 draft: false
 categories: []
 tags:
@@ -56,5 +56,3 @@ This initiative isn't just about moving from one version of Drupal to another. S
 Our migration journey from Drupal 7 to Drupal 9 and the future upgrade to Drupal 10 represents our commitment to providing a secure, efficient, and user-friendly online experience for our community. 
 
 Finally, I'd like to take this moment to highlight that this project is a monumental team effort, thanks to the exceptional contributions of Eric Poirier and Théodore Biadala, our Drupal developers; Martin Lowe and Zachary Sabourin, our Java developers implementing the API decoupling objective; and Frederic Gurr, whose support has been instrumental in deploying our new apps on the Eclipse Infrastructure.
-
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us via our top-level Epic for the [Drupal 7 to Drupal 9 migration](https://gitlab.eclipse.org/groups/eclipsefdn/-/epics/2) effort.
