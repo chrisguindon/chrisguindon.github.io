@@ -26,8 +26,6 @@ Microsoft announced the [retirement of Internet Explorer 11 (IE 11)](https://blo
 
 
 
-## Why We're Dropping IE 11 Support in 2024
-
 
 
 Our decision to extend support until 2024 is strategic. Based on our website analytics, a small but significant 3% of our user base is still utilizing IE 11. While our current front-end framework does offer support for IE 11, this will no longer be the case with our upcoming migration to Bootstrap 5. We believe this timeline will provide ample opportunity for users to transition to modern browsers while allowing us to align our technical roadmap.
