@@ -28,7 +28,7 @@ Microsoft announced the [retirement of Internet Explorer 11 (IE 11)](https://blo
 
 
 
-Our decision to extend support until 2024 is strategic. Based on our website analytics, a small but significant 3% of our user base is still utilizing IE 11. While our current front-end framework does offer support for IE 11, this will no longer be the case with our upcoming migration to Bootstrap 5.  It's important to note that IE 11 is a legacy browser with discontinued updates, posing increased security risks. We believe this timeline will provide ample opportunity for users to transition to modern, more secure browsers while allowing us to align our technical roadmap.
+Our decision to extend support until 2024 is strategic. Based on our website analytics, a small but significant 3% of our user base is still utilizing IE 11. While our current front-end framework does offer support for IE 11, this will no longer be the case with our upcoming migration to Bootstrap 5. It's important to note that IE 11 is a legacy browser that is no longer supported by Microsoft, posing increased security risks. We believe this timeline will provide ample opportunity for users to transition to modern, more secure browsers while allowing us to align our technical roadmap.
 
 
 
