@@ -42,7 +42,7 @@ Our decision to extend support until 2024 is strategic. Based on our website ana
 
 
 
-For those still using IE 11, we strongly urge you to transition to a modern browser before January 1, 2024. Popular alternatives include Microsoft Edge, Google Chrome, and Mozilla Firefox, all of which offer a more secure and efficient browsing experience.
+For those still using IE 11, we strongly urge you to transition to a modern browser before January 1, 2024. Popular alternatives include [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=80&form=MA13KF&es=23), [Google Chrome](https://www.google.com/intl/en_ca/chrome/), and [Mozilla Firefox](https://mozilla.org/en-CA/firefox/new/), all of which offer a more secure and efficient browsing experience.
 
 
 
