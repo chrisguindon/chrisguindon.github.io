@@ -42,10 +42,10 @@ For those still using IE 11, we strongly urge you to transition to a modern brow
 
 
 
-## Your Feedback Matters
-
 
 
 We understand that this is a significant change, and we want to hear from you. If you have any concerns or objections, please participate in our [discussion](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/1476).
+
+
 
 While we aim to be as inclusive as possible in terms of browser support, technological advancements necessitate this inevitable shift. We believe that by giving our community advance notice, we're ensuring a smoother transition for everyone involved.
