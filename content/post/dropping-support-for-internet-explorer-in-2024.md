@@ -2,7 +2,7 @@
 title: Dropping Support for Internet Explorer 11 in 2024
 linktitle: Dropping Support for Internet Explorer 11 in 2024
 author: Christopher Guindon
-date: 2023-10-04T14:00:06.071Z
+date: 2023-10-04T14:30:06.071Z
 draft: false
 tags:
   - eclipse
