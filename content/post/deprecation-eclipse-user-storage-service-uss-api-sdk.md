@@ -15,14 +15,14 @@ The Eclipse User Storage Service (USS) API was created in 2015 to enable Eclipse
 
 Despite their past utility, the usage of this service has been steadily declining, and the costs associated with maintaining it are increasing.
 
-Our current plan is to remove the Eclipse USS SDK from SimRel before the release of Eclipse IDE 2025-03 and to shut down the API service by **July 2nd, 2025**.
+Our current plan is to remove the Eclipse USS SDK from SimRel before the release of Eclipse IDE 2025-03 and to shut down the API service by **2 July 2025**.
 
 We appreciate your understanding and cooperation as we navigate these changes. If you have any questions or require further assistance, please don't hesitate to reach out via our [helpdesk issue #4696](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4696).
 
 
 ### References
 
-* [Deprecate the Eclipse User Storage Service (USS) by July 2, 2025](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4696).
+* [Deprecate the Eclipse User Storage Service (USS) by 2 July 2025](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/4696).
 * [Eclipse User Storage Service SDK project](https://projects.eclipse.org/projects/technology.usssdk)
 * [Eclipse USS OpenAPI Docs](https://webdev.eclipse.org/docs/api/additional-api-docs/#tag/Eclipse-USS)
 * [Eclipsepedia: Eclipse USS](https://wiki.eclipse.org/Eclipse_USS)
