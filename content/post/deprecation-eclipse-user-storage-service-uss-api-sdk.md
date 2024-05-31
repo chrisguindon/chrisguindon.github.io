@@ -11,7 +11,7 @@ tags:
 
 Today, we are announcing the deprecation of the [Eclipse User Storage Service SDK](https://projects.eclipse.org/projects/technology.usssdk) (the Eclipse project) and the [Eclipse User Storage Service API](https://webdev.eclipse.org/docs/api/additional-api-docs/#tag/Eclipse-USS) (hosted and maintained by the Eclipse Foundation).
 
-The Eclipse User Storage Service (USS) API was created in 2015 to enable Eclipse projects to store and retrieve user data and preferences from our servers. Complementing this is the [Eclipse User Storage Service SDK](https://projects.eclipse.org/projects/technology.usssdk) which offers a user-friendly Java library tailored for Eclipse RCP-based applications to simplify the integration with Eclipse USS API by managing authentication and login processes seamlessly.
+The Eclipse User Storage Service (USS) API was created in 2015 to enable Eclipse projects to store and retrieve user data and preferences from our servers. Complementing this is the [Eclipse User Storage Service SDK](https://projects.eclipse.org/projects/technology.usssdk) which offers a user-friendly Java library tailored for Eclipse RCP-based applications to simplify the integration with Eclipse USS API by managing the authentication and login processes.
 
 Despite their past utility, the usage of this service has been steadily declining, and the costs associated with maintaining it are increasing.
 
