@@ -11,7 +11,7 @@ tags:
   - eclipse
   - jakartaee
 keywords: ["Gravatar Support", "Eclipse Profile Picture Upload", "Drupal 10 Migration", "Eclipse Foundation", "Eclipse Accounts", "Privacy Compliance", "Profile Picture Update", "GitLab Profile Picture", "Eclipse Profile", "User Data Control", "Profile Picture System" "Eclipse Websites", "Profile Management", "Eclipse Foundation Privacy", "Update Eclipse Profile", "Drupal 10 Migration Eclipse"]
-description: As part of our migration to Drupal 10], we’ve decided to discontinue support for Gravatar on some foundation sites. This change enhances privacy compliance by giving users more control over their data and ensures a more consistent experience across many of our web properties.
+description: As part of our migration to Drupal 10, we’ve decided to discontinue support for Gravatar on some foundation sites. This change enhances privacy compliance by giving users more control over their data and ensures a more consistent experience across many of our web properties.
 ---
 
 As part of our [migration to Drupal 10](https://www.chrisguindon.com/post/navigating-the-shift-from-drupal-7-to-drupal-9-10-at-the-eclipse-foundation/), we’ve decided to discontinue support for Gravatar on sites such as [accounts.eclipse.org](https://accounts.eclipse.org), [blogs.eclipse.org](https://blogs.eclipse.org), [marketplace.eclipse.org](https://marketplace.eclipse.org), and [newsroom.eclipse.org](https://newsroom.eclipse.org). This change enhances privacy compliance by giving users more control over their data and ensures a more consistent experience across many of our web properties.
