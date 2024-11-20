@@ -10,18 +10,17 @@ categories:
 tags:
   - eclipse
   - jakartaee
-keywords: []
+keywords: ["Gravatar Support", "Eclipse Profile Picture Upload", "Drupal 10 Migration", "Eclipse Foundation", "Eclipse Accounts", "Privacy Compliance", "Profile Picture Update", "GitLab Profile Picture", "Eclipse Profile", "User Data Control", "Profile Picture System" "Eclipse Websites", "Profile Management", "Eclipse Foundation Privacy", "Update Eclipse Profile", "Drupal 10 Migration Eclipse"]
 ---
-As part of our[ migration to Drupal 10](https://www.chrisguindon.com/post/navigating-the-shift-from-drupal-7-to-drupal-9-10-at-the-eclipse-foundation/), we’ve made the decision to discontinue support for Gravatar on sites such as [accounts.eclipse.org](https://accounts.eclipse.org), [blogs.eclipse.org](https://blogs.eclipse.org), [marketplace.eclipse.org](https://marketplace.eclipse.org), and [newsroom.eclipse.org](https://newsroom.eclipse.org). This change enhances privacy compliance by giving users more control over their data and ensures a more consistent experience across many of our web properties.
+
+As part of our [migration to Drupal 10](https://www.chrisguindon.com/post/navigating-the-shift-from-drupal-7-to-drupal-9-10-at-the-eclipse-foundation/), we’ve decided to discontinue support for Gravatar on sites such as [accounts.eclipse.org](https://accounts.eclipse.org), [blogs.eclipse.org](https://blogs.eclipse.org), [marketplace.eclipse.org](https://marketplace.eclipse.org), and [newsroom.eclipse.org](https://newsroom.eclipse.org). This change enhances privacy compliance by giving users more control over their data and ensures a more consistent experience across many of our web properties.
 
 
 ## Why Are We Dropping Gravatar?
 
-
-
 * **Improved Privacy**: Moving away from Gravatar reduces reliance on external services, giving users greater control over their profile pictures and personal data.
 * **Inconsistent Profile Pictures**: Users have experienced issues in the past with their profile pictures displaying inconsistently across some sites due to syncing problems between Gravatar and our internal systems. This update ensures a more consistent experience.
-* **Lack of Support with Drupal 10**: The[ Gravatar integration module](https://www.drupal.org/project/gravatar) used with Drupal 7 is not compatible with Drupal 10, and maintaining support would require significant effort. 
+* **Lack of Support with Drupal 10**: The [Gravatar integration module](https://www.drupal.org/project/gravatar) used with Drupal 7 is not compatible with Drupal 10, and maintaining support would require significant effort.
 
 
 ## What Does This Mean for You?
@@ -36,7 +35,7 @@ For example, my picture is available here (my Eclipse username is "cguindon"): \
 
 The content of that image URL will automatically change if the user uploads a new picture or removes it in the future. If you display profile pictures on your project website, this new endpoint eliminates the need for you to sync profile pictures as-well!
 
-**Important:** Some Eclipse services, such as GitLab, manage profile pictures independently and do not use this new endpoint. This change will not affect your picture on GitLab. To update your GitLab profile picture, visit your [Eclipse GitLab Edit Profile](https://gitlab.eclipse.org/-/user_settings/profile) page.
+**Important:** Some of our services, such as GitLab, manage profile pictures independently and do not use this new endpoint. This change will not affect your picture on GitLab. To update your GitLab profile picture, visit your [Eclipse GitLab Edit Profile](https://gitlab.eclipse.org/-/user_settings/profile) page.
 
 
 ## How You Can Take Action Now
