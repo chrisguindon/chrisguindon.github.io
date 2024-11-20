@@ -1,8 +1,7 @@
 ---
 title: Gravatar Support Ending on Accounts.eclipse.org – Time to Upload Your
   Profile Picture
-linktitle: Gravatar Support Ending on Accounts.eclipse.org – Time to Upload Your
-  Profile Picture
+linktitle: Gravatar Support Ending on Accounts.eclipse.org
 author: Christopher Guindon
 date: 2024-11-20T18:41:16.312Z
 draft: true
