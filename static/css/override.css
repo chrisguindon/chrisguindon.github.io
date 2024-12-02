@@ -57,3 +57,7 @@ h3, h4,h5{
 #post-list.archive.readmore h3{
   margin-bottom:5px;
 }
+
+b, strong {
+  font-weight: bold;
+}
