@@ -57,4 +57,4 @@ If you operate a service that collects Personal Information (e.g., usernames, em
 
 **Note**: This step is not required for service operators maintaining project websites that do not collect Personal Information or use any website analytics platform.
 
-We are committed to supporting our community in meeting the highest standards for privacy, security, and transparency. For more details, please review the [updated policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf?v1.1). Don’t hesitate to contact us at [privacy@eclipse.org](mailto:privacy@eclipse.org) if you have any questions!
+We are committed to supporting our community in meeting the highest standards for privacy, security, and transparency. For more details, please review the [updated policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf?v1.1) and don’t hesitate to contact us at [privacy@eclipse.org](mailto:privacy@eclipse.org) if you have any questions!
