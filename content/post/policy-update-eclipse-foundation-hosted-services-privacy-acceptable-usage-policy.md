@@ -33,7 +33,6 @@ If you are Service Operator, we ask that you review this new policy and ensure y
 
 ## What’s New?
 
-
 1. **Clearer Privacy and Security Guidelines** \
 The updated policy clarifies the responsibilities of service operators in managing personal information (PI) and ensuring compliance with global privacy regulations. This includes but not limited to:
 
@@ -49,11 +48,9 @@ To simplify the reporting and approval processes, we’ve created a [GitLab proj
 3. **New Analytics Platforms and Content Embedding Restrictions** \
 The policy now includes two new supported website analytics platforms and a list of approved domains for embedding external content. The use of any other services or domains requires explicit consent from the Eclipse Foundation, which can be requested by contacting [privacy@eclipse.org](mailto:privacy@eclipse.org).
 
-
 ## Action Required
 
 If you operate a service that collects Personal Information (e.g., usernames, email addresses, or other user-identifiable data), you must:
-
 
 * Submit a [Usage Report](https://gitlab.eclipse.org/eclipsefdn/hosted-services-privacy-and-acceptable-usage-policy/-/issues/new?issuable_template=usage_report) to inform us of your activities.
 * For new services, you must now obtain formal approval via an [issue](https://gitlab.eclipse.org/eclipsefdn/hosted-services-privacy-and-acceptable-usage-policy/-/issues/new?issuable_template=usage_report) before starting any data collection.
