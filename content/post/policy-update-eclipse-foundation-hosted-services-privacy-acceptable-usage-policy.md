@@ -36,7 +36,7 @@ If you are Service Operator, we ask that you review this new policy and ensure y
 1. **Clearer Privacy and Security Guidelines** \
 The updated policy clarifies the responsibilities of service operators in managing personal information (PI) and ensuring compliance with global privacy regulations. This includes but not limited to:
 
-    * Ensuring proper anonymization of PI (e.g., IP anonymization in Google Analytics) and deleting it when no longer needed.
+    * Ensuring proper anonymisation of PI (e.g., IP anonymisation in Google Analytics) and deleting it when no longer needed.
     * Completing a Data Protection Impact Assessment (DPIA) to document how PI is collected, retained, and deleted.
     * Promptly reporting security breaches to the Eclipse Foundation’s Security Team at [security@eclipse-foundation.org](mailto:security@eclipse-foundation.org), with details on the nature and scope of the breach.
 
@@ -57,4 +57,4 @@ If you operate a service that collects Personal Information (e.g., usernames, em
 
 **Note**: This step is not required for service operators maintaining project websites that do not collect Personal Information or use any website analytics platform.
 
-We are committed to supporting our community in meeting the highest standards for privacy, security, and transparency. For more details, please review the [updated policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf?v1.1) and don’t hesitate to contact us at [privacy@eclipse.org](mailto:privacy@eclipse.org) if you have any questions!
+We are committed to supporting our community in meeting the highest standards for privacy, security, and transparency. For more details, please review the [updated policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf?v=1.1) and don’t hesitate to contact us at [privacy@eclipse.org](mailto:privacy@eclipse.org) if you have any questions!
