@@ -1,7 +1,5 @@
-
 ---
 title: 'Policy Update: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy'
-linktitle: 'Policy Update: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy'
 author: Christopher Guindon
 date: '2024-12-02T15:55:00-05:00'
 draft: false
@@ -10,7 +8,7 @@ categories:
 tags:
   - eclipse
   - jakartaee
-tags:
+keywords:
   - Policy Update
   - Privacy Policy
   - Acceptable Usage
@@ -21,7 +19,7 @@ tags:
   - OpenID Connect
   - Website Analytics
   - Content Embedding
-description: This update to the Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy introduces clearer guidelines for Service Operators, enhanced privacy and security measures, new analytics platform support, and reporting requirements to ensure compliance with global privacy standards.
+description: 'This update to the Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy introduces clearer guidelines for Service Operators, enhanced privacy and security measures, new analytics platform support, and reporting requirements to ensure compliance with global privacy standards.'
 ---
 
 We are pleased to announce the release of Version 1.1 of the [Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy](https://www.eclipse.org/org/documents/eclipse-foundation-hosted-services-privacy-and-acceptable-usage-policy.pdf?v=1.1), effective December 2, 2024. This policy sets out the rules and responsibilities for Services Operators — individuals other than Eclipse Foundation staff managing services hosted or supported by the Eclipse Foundation — to ensure compliance  with the [Eclipse Foundation Website Privacy Policy](https://www.eclipse.org/legal/privacy/) and global privacy standards.
