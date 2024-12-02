@@ -3,7 +3,7 @@
 title: 'Policy Update: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy'
 linktitle: 'Policy Update: Eclipse Foundation Hosted Services Privacy and Acceptable Usage Policy'
 author: Christopher Guindon
-date: '2024-12-02T14:55:00-05:00'
+date: '2024-12-02T15:55:00-05:00'
 draft: false
 categories:
   - technology
