@@ -55,7 +55,4 @@ The content of that image URL will automatically change if the user uploads a ne
 
 **Important:** Some of our services, such as GitLab, manage profile pictures independently and do not use this new endpoint. This change will not affect your picture on GitLab. To update your GitLab profile picture, visit your [Eclipse GitLab Edit Profile](https://gitlab.eclipse.org/-/user_settings/profile) page.
 
-
-## How You Can Take Action Now
-
-If you currently use Gravatar for your profile picture, it will no longer be displayed on sites like [accounts.eclipse.org](https://accounts.eclipse.org), [blogs.eclipse.org](https://blogs.eclipse.org), [marketplace.eclipse.org](https://marketplace.eclipse.org), and [newsroom.eclipse.org](https://newsroom.eclipse.org). To ensure your profile has a picture, please upload an [Eclipse profile picture](https://accounts.eclipse.org/user/edit) now in your account.
+If you currently use Gravatar for your profile picture, it will no longer be displayed on sites like [accounts.eclipse.org](https://accounts.eclipse.org), [projects.eclipse.org](https://projects.eclipse.org), [blogs.eclipse.org](https://blogs.eclipse.org), [marketplace.eclipse.org](https://marketplace.eclipse.org), and [newsroom.eclipse.org](https://newsroom.eclipse.org). To ensure your profile has a picture, please upload an [Eclipse profile picture](https://accounts.eclipse.org/user/edit) now in your account.
