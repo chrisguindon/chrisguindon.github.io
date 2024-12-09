@@ -43,7 +43,10 @@ As part of our [migration to Drupal 10](https://www.chrisguindon.com/post/naviga
 To address these issues, we’ve introduced a new profile picture endpoint that ensures a consistent solution for displaying profile pictures across supported sites. This endpoint will show either the user's uploaded picture or our default silhouette if no picture is available. This update also aligns with our goal to minimise personal data that we need to sync across our various web properties.
 
 To display a community member's profile picture on your project website, simply replace `[:eclipse_username]` with the user's Eclipse username and use that URL as the `href` value in your image tag: \
-https://accounts.eclipse.org/user/`[:eclipse_username]`/picture
+
+```
+https://accounts.eclipse.org/user/[:eclipse_username]/picture
+```
 
 For example, my picture is available here (my Eclipse username is "cguindon"): \
 [https://accounts.eclipse.org/user/cguindon/picture](https://accounts.eclipse.org/user/cguindon/picture)
