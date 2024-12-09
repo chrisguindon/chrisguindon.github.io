@@ -1,7 +1,7 @@
 ---
 title: Gravatar Support Ending on Accounts.eclipse.org
 author: Christopher Guindon
-date: '2024-12-09T12:50:00-05:00'
+date: '2024-12-09T13:23:00-05:00'
 draft: false
 categories:
   - technology
