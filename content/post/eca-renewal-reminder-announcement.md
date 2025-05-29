@@ -9,11 +9,11 @@ tags:
   - eclipse
 ---
 
-To better serve the Eclipse community and improve how we manage contributor agreements, we’re introducing a new service that will remind users to renew their Eclipse Contributor Agreement (ECA) before it expires.
+To better serve the Eclipse community and improve how we manage contributor agreements, we’re introducing a new service that will remind users to renew their [Eclipse Contributor Agreement (ECA)](https://www.eclipse.org/legal/eca/) before it expires.
 
-ECAs are valid for three years, after which they must be re-signed to continue contributing. Starting the week of June 9, contributors with ECAs nearing expiration will receive an email notification with instructions and a two-week window to renew their agreement.
+ECAs are valid for three years, after which they must be renewed to continue contributing. Starting the week of June 9, contributors with ECAs nearing expiration will receive an email notification with instructions and a two-week window to renew their agreement.
 
-If the ECA isn't renewed within that timeframe, it will be automatically revoked, and contributors will need to sign it again before making further contributions to an Eclipse project.
+If the ECA isn't renewed within that timeframe, it will be automatically expired, and contributors will need to sign it again before making further contributions to an Eclipse project.
 
 ### Who Will Be Notified?
 
