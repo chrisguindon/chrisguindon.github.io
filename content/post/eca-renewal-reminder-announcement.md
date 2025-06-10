@@ -18,7 +18,7 @@ To make it easier for our community to maintain an active contributor status, we
 
 Starting June 11, 2025, we will begin sending email reminders before a standalone ECA is set to expire. For those who need to take action, the email will have a subject line of "Action Required: Your Eclipse Contributor Agreement (ECA) is Expiring Soon" and will contain a link to renew the agreement.
 
-If you are an Eclipse committer who has signed an Individual Committer Agreement (ICA), or an employee of a member organization that has signed the Member Company Committer Agreement (MCCA), you are already covered because both agreements include the ECA. **If you are covered by one of these agreements, an expiring standalone ECA will not affect your ability to contribute.** In this case, you will receive a separate informational email with the subject: "No Action Required: Your Eclipse Contributor Agreement (ECA) is Expiring Soon" to confirm your status.
+If you are an Eclipse committer who has signed an Individual Committer Agreement (ICA), or an employee of a member organization that has signed the Member Company Committer Agreement (MCCA), you are not required to renew the standalone ECA, as both agreements include the ECA. **If you are covered by one of these agreements, an expiring standalone ECA will not affect your ability to contribute.** In this case, you will receive a separate informational email with the subject: "No Action Required: Your Eclipse Contributor Agreement (ECA) is Expiring Soon" to confirm your status.
 
 For those covered only by a standalone ECA, if it expires, you won't be allowed to contribute to open source projects at Eclipse until you sign it again. Specifically:
 
