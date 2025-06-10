@@ -1,18 +1,29 @@
 ---
-title: "Introducing ECA Renewal Notifications"
+title: "Improving ECA Renewals with Automated Notifications"
 author: Christopher Guindon
-date: '2025-05-29T15:03:05-04:00'
+date: '2025-06-10T09:14:05-04:00'
 draft: false
 categories:
   - technology
+  - community
 tags:
   - eclipse
+  - ECA
+  - contribution
+  - legal
 ---
 
-To better serve the Eclipse community and improve how we manage contributor agreements, we’re introducing a new service that will remind users to renew their [Eclipse Contributor Agreement (ECA)](https://www.eclipse.org/legal/eca/) before it expires.
+To make it easier for our community to maintain an active contributor status, we're introducing a new notification service for the [Eclipse Contributor Agreement (ECA)](https://www.eclipse.org/legal/eca/).
 
-ECAs are valid for three years, after which they must be renewed to continue contributing. Starting the week of June 9, contributors with ECAs nearing expiration will receive an email notification with instructions and a two-week window to renew their agreement.
+Starting tomorrow, June 11, 2025, we will begin sending email reminders before a standalone ECA is set to expire. For those who need to take action, the email will have a subject line of "Action Required: Your Eclipse Contributor Agreement (ECA) is Expiring Soon" and will contain a link to renew the agreement.
 
-If the ECA isn't renewed within that timeframe, it will be automatically expired, and contributors will need to sign it again before making further contributions to an Eclipse project.
+While these notifications apply to contributors who have signed a standalone ECA, our committers are covered by a different agreement. Agreements like the Individual Committer Agreement (ICA) or the Member Company Committer Agreement (MCCA) already include the ECA. **If you are covered by one of these agreements, your ability to contribute will not be affected by an expiring standalone ECA.** In this case, you will receive a separate, informational email with the subject "No Action Required" to confirm your status.
 
-If you have any questions or feedback about this process, please visit the [public HelpDesk issue](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/6222) on GitLab.
+For those covered only by a standalone ECA, if it expires, you won't be allowed to contribute to open source projects at Eclipse until you sign it again. Specifically:
+
+* You will no longer be able to **push changes** to Eclipse project repositories hosted on [Eclipse Foundation GitLab](https://gitlab.eclipse.org/eclipse).
+* Any commits included in a GitHub Pull Request will **fail our automated ECA validation check**.
+
+If this happens, you can restore your contribution access by visiting [https://accounts.eclipse.org/user/eca](https://accounts.eclipse.org/user/eca) and signing the ECA. Your ability to contribute will be restored once the new agreement is processed, which may take 5 to 15 minutes for our system caches to update.
+
+For any questions or feedback, please join the discussion on our [HelpDesk issue](https://gitlab.eclipse.org/eclipsefdn/helpdesk/-/issues/6222).
