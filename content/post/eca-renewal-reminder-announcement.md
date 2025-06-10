@@ -22,8 +22,8 @@ If you are an Eclipse committer who has signed an Individual Committer Agreement
 
 For those covered only by a standalone ECA, if it expires, you won't be allowed to contribute to open source projects at Eclipse until you sign it again. Specifically:
 
-* You will no longer be able to **push changes** to an Eclipse project repositories hosted on [Eclipse Foundation GitLab](https://gitlab.eclipse.org/eclipse).
-* Any commits included in a GitHub Pull Request will **fail our automated ECA validation check**.
+* You will no longer be able to submit a merge request to an Eclipse project repositories hosted on [Eclipse Foundation GitLab](https://gitlab.eclipse.org/eclipse).
+* Your commits included in a GitHub Pull Request will fail our automated ECA validation check.
 
 If this happens, you can always restore your ability to contribute by visiting [https://accounts.eclipse.org/user/eca](https://accounts.eclipse.org/user/eca) and signing the ECA. Your contributor status will be restored once the new agreement is processed, which may take 5 to 15 minutes for our system caches to update.
 
