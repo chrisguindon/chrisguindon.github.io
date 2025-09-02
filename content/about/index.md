@@ -6,7 +6,7 @@ draft: false
 hidden: true
 ---
 
-I am a technology leader with over 17 years of experience in all stages of the software and web development cycle. In addition to my technical skills, I have strong experience managing teams of developers and contractors, making sure projects are delivered on time, on budget, and to the highest quality standards.
+I am a technology leader with over 18 years of experience in all stages of the software and web development cycle. In addition to my technical skills, I have strong experience managing teams of developers and contractors, making sure projects are delivered on time, on budget, and to the highest quality standards.
 
 As **Director of Software Development** at the [Eclipse Foundation](https://www.eclipse.org/org/foundation/staff.php), I provide leadership across all of the Foundation’s software development activities, including open-source product development, AI adoption, and regulatory compliance.
 
