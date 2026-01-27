@@ -91,7 +91,7 @@ These changes are an important step forward, and part of a longer journey. We’
 
 Our goal is simple: to keep the Open VSX Registry a resource developers can depend on with confidence.
 
-Growing with the ecosystem
+## Growing with the ecosystem
 
 The security work outlined above is part of a broader effort to scale the Open VSX Registry responsibly as adoption continues to grow. That includes investing not just in tooling and processes, but in the people doing the work.
 
