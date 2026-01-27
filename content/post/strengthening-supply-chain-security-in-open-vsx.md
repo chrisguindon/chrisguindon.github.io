@@ -16,7 +16,6 @@ tags:
   - extension registry
 ---
 
-
 The [Open VSX Registry](https://open-vsx.org/) is core infrastructure in the developer supply chain, delivering extensions developers download, install, and rely on every day. As the ecosystem grows, maintaining that trust matters more than ever.
 
 ***A quick note on terminology: Eclipse Open VSX is an open source project, and the Open VSX Registry is the hosted instance of that project, operated by the Eclipse Foundation. This post focuses primarily on security improvements being rolled out in the Open VSX Registry, while much of the underlying work is happening in the Open VSX project***.
@@ -27,7 +26,7 @@ To address this, we are taking a more proactive approach by adding security chec
 
 ## Why pre-publish security checks matter
 
-Developer tooling ecosystems are a popular target, and we see the same types of issues repeatedly:
+Developer tooling ecosystems, including package registries and extension marketplaces, are a popular target, and we see the same types of issues repeatedly:
 
 * Namespace impersonation designed to mislead users
 * Secrets or credentials accidentally committed and published
@@ -65,7 +64,6 @@ We’re approaching this effort with a focus on ecosystem health. The goal and i
 * **Move toward enforcement in March**, once we’re confident the system behaves predictably and fairly
 
 This staged rollout gives us room to get it right before it impacts publication flows.
-
 
 ## What publishers and users should expect
 
