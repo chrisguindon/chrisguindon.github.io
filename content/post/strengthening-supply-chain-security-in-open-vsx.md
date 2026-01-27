@@ -1,7 +1,7 @@
 
 ---
 title: 'Strengthening supply-chain security in Open VSX'
-description: 'Open VSX Registry is introducing pre-publish security checks to strengthen extension supply chain security and protect publishers and users.'
+description: 'Learn how the Open VSX Registry is strengthening developer trust with new pre-publish security checks designed to protect the extension supply chain as the ecosystem grows.'
 author: Christopher Guindon
 date: '2026-01-27T10:00:00-04:00'
 draft: false
@@ -87,6 +87,8 @@ Security isn’t a one-and-done project. It evolves alongside the ecosystem it p
 Strengthening supply-chain security is a shared responsibility. As the Open VSX Registry continues to grow, investing in proactive safeguards is essential to protecting both publishers and users.
 
 These changes are an important step forward, and part of a longer journey. We’ll keep iterating, learning from real-world use, and adapting as the ecosystem evolves. Community feedback plays a critical role in that process, and we encourage publishers and users to share their experiences as this work rolls out.
+
+**We would also like to thank [Alpha-Omega](https://alpha-omega.dev/) for supporting this work, and for their broader support of the Eclipse Foundation’s security initiatives.**
 
 Our goal is simple: to keep the Open VSX Registry a resource developers can depend on with confidence.
 
