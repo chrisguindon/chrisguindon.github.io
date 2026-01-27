@@ -14,6 +14,7 @@ tags:
   - supply chain security
   - developer security
   - extension registry
+  - package registries
 ---
 
 The [Open VSX Registry](https://open-vsx.org/) is core infrastructure in the developer supply chain, delivering extensions developers download, install, and rely on every day. As the ecosystem grows, maintaining that trust matters more than ever.
