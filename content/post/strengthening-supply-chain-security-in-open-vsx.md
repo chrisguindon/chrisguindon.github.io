@@ -37,7 +37,7 @@ Relying only on after-the-fact detection leaves a growing window of exposure. Pr
 
 ## How we’re approaching this work
 
-To move faster and add specialized expertise, we are working alongside security consultants from Yeeth Security. These experts are helping us design and implement a new verification framework, while keeping overall direction, decision-making, and long-term stewardship firmly within the Open VSX project and the Eclipse Foundation as operators of the Open VSX Registry.
+To move faster and add specialized expertise, we are working alongside security consultants from [Yeeth Security](https://yeeth.xyz/). These experts are helping us design and implement a new verification framework, while keeping overall direction, decision-making, and long-term stewardship firmly within the Open VSX project and the Eclipse Foundation as operators of the Open VSX Registry.
 
 Most of this work is happening in the open. We are keeping a small set of security-sensitive details private to reduce the risk of abuse or circumvention.
 
