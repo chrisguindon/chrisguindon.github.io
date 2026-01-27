@@ -3,7 +3,7 @@
 title: 'Strengthening supply-chain security in Open VSX'
 description: 'Open VSX Registry is introducing pre-publish security checks to strengthen extension supply chain security and protect publishers and users.'
 author: Christopher Guindon
-date: '2026-01-26T15:00:00-04:00'
+date: '2026-01-27T10:00:00-04:00'
 draft: false
 categories:
   - technology
