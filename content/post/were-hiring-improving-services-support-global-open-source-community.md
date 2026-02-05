@@ -44,7 +44,6 @@ For additional context on the problems this role addresses, see my recent post o
 To apply: \
 [https://eclipsefoundation.applytojob.com/apply/eXFgacP5SJ/Software-Engineer](https://eclipsefoundation.applytojob.com/apply/eXFgacP5SJ/Software-Engineer)
 
-
 ## Software developer: open source project tooling and services
 
 The second role is a Software Developer position focused on improving the tools and services that support Eclipse open source projects.
