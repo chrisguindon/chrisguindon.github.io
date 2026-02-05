@@ -3,7 +3,7 @@
 title: 'We’re hiring: improving the services that support a global open source community'
 description: 'The Eclipse Foundation is hiring a Software Engineer and Software Developer to improve open source infrastructure, project tooling, and developer services.'
 author: Christopher Guindon
-date: '2026-02-05T13:45:00-05:00'
+date: '2026-02-05T14:02:00-05:00'
 draft: false
 categories:
   - technology
@@ -35,7 +35,7 @@ In this role, you will:
 
 * Analyse suspicious or malicious extensions and related artefacts
 * Develop, test, and maintain YARA rules to detect malicious or policy-violating content
-* Design and implement improvements to backend services, including new features, abuse prevention, rate-limiting, and operational safeguards
+* Design, implement and contribute improvements to backend services, including new features, abuse prevention, rate-limiting, and operational safeguards
 
 This is hands-on work that combines backend development with practical security analysis. The outcome directly improves the reliability, integrity, and operation of services that are part of the developer tooling supply chain.
 
