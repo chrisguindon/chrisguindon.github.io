@@ -52,7 +52,7 @@ As reliance on shared open infrastructure grows, sustaining it becomes a collect
 
 ## Open VSX is critical, and often invisible, infrastructure
 
-Many developers and organisations may not realise how often they rely on the Open VSX Registry. It provides the extension infrastructure behind a growing number of modern developer platforms and tools, including **Amazon’s Kiro, Cursor, Google Antigravity, Windsurf, VSCodium, IBM’s Project Bob, Trae, Ona (formerly Gitpod), **and others.
+Many developers and organisations may not realise how often they rely on the Open VSX Registry. It provides the extension infrastructure behind a growing number of modern developer platforms and tools, including **Amazon’s Kiro, Cursor, Google Antigravity, Windsurf, VSCodium, IBM’s Project Bob, Trae, Ona (formerly Gitpod)**, and others.
 
 If you use one of these tools, you use the Open VSX Registry.
 
@@ -87,7 +87,7 @@ The goal is to keep the Open VSX Registry reliable and fair as it scales, while 
 
 For most users, nothing should feel different. Developers should see little to no impact, and publishers should not experience disruption to normal publishing workflows. Sustained, high-volume automated consumers may need to coordinate with the Registry to ensure their usage can be supported reliably over time.
 
-Organisations that depend on the Open VSX Registry for sustained or commercial-scale usage are encouraged to get in touch. Coordinating early helps us plan capacity, maintain reliability, and support the broader ecosystem.  Please contact the Open VSX Registry team at **infrastructure@eclipse-foundation.org**.
+Organisations that depend on the Open VSX Registry for sustained or commercial-scale usage are encouraged to get in touch. Coordinating early helps us plan capacity, maintain reliability, and support the broader ecosystem.  Please contact the Open VSX Registry team at infrastructure@eclipse-foundation.org.
 
 The intent is not restriction, but clarity in support of fairness, stability, and long-term sustainability.
 
