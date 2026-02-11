@@ -29,7 +29,7 @@ tags:
 
 The [Open VSX Registry](https://open-vsx.org/) has become widely used infrastructure for modern developer tools. That growth reflects strong trust from the ecosystem, and it brings a shared responsibility to keep the Registry reliable, predictable, and equitable for everyone who depends on it.
 
-In a [previous post](https://blogs.eclipse.org/post/christopher-guindon/strengthening-supply-chain-security-open-vsx), I shared an update on strengthening supply-chain security in the Open VSX Registry, including the introduction of pre-publish checks for extensions. This post focuses on the operational side of the same goal: ensuring the Registry remains resilient and sustainable as usage continues to grow.
+In a previous post, I shared an update on [strengthening supply-chain security in the Open VSX Registry](https://blogs.eclipse.org/post/christopher-guindon/strengthening-supply-chain-security-open-vsx), including the introduction of pre-publish checks for extensions. This post focuses on the operational side of the same goal: ensuring the Registry remains resilient and sustainable as usage continues to grow.
 
 ## The Open VSX Registry is free to use, but not free to operate
 
@@ -52,13 +52,13 @@ As reliance on shared open infrastructure grows, sustaining it becomes a collect
 
 ## Open VSX is critical, and often invisible, infrastructure
 
-Many developers and organisations may not realise how often they rely on the Open VSX Registry. It provides the extension infrastructure behind a growing number of modern developer platforms and tools, including **Amazon’s Kiro, Cursor, Google Antigravity, Windsurf, IBM’s Project Bob, Trae, **and others.
+Many developers and organisations may not realise how often they rely on the Open VSX Registry. It provides the extension infrastructure behind a growing number of modern developer platforms and tools, including **Amazon’s Kiro, Cursor, Google Antigravity, Windsurf, VSCodium, IBM’s Project Bob, Trae, Ona (formerly Gitpod), **and others.
 
 If you use one of these tools, you use the Open VSX Registry.
 
 The Open VSX Registry remains a neutral, vendor-independent public service, operated in the open and governed by the Eclipse Foundation for the benefit of the entire ecosystem.
 
-For developers, the expectation is simple: Open VSX should remain fast, stable, and dependable as the ecosystem grows.
+For developers, the expectation is simple: Open VSX should remain fast, stable, secure, and dependable as the ecosystem grows.
 
 As more platforms and automated systems rely on the Registry, continuous machine-driven traffic can place sustained load on shared infrastructure. Without clear operational guardrails, that can affect performance and availability for everyone.
 
