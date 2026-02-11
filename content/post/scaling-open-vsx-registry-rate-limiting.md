@@ -3,7 +3,7 @@
 title: 'Scaling the Open VSX Registry responsibly with rate limiting'
 description: 'Learn how responsible rate limiting helps keep the Open VSX Registry reliable, fair, and sustainable as AI-driven and automated usage continues to grow.'
 author: Christopher Guindon
-date: '2026-02-11T10:00:00-05:00'
+date: '2026-02-11T10:15:00-05:00'
 draft: false
 categories:
   - technology
